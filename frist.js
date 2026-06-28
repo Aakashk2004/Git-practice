@@ -16,3 +16,6 @@ const wishlist="recent items";
 console.log(wishlist);
 
 console.log("latest changes");
+
+//bug fixing
+console.log("Bug Fixed");
