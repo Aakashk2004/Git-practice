@@ -15,3 +15,6 @@ console.log(balance);
 const order="home Appliances";
 
 console.log(order);
+
+const cart="save youe wishlist";
+console.log(cart);
