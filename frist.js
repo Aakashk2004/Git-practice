@@ -14,3 +14,6 @@ console.log(balance);
 
 const views="recent views";
 console.log(views);
+
+const wishlist="recent items";
+console.log(wishlist);
