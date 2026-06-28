@@ -11,3 +11,6 @@ console.log(pay);
 
 const balance ="balance done";
 console.log(balance);
+
+const views="recent views";
+console.log(views);
