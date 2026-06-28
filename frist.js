@@ -11,3 +11,7 @@ console.log(pay);
 
 const balance ="balance done";
 console.log(balance);
+
+const order="home Appliances";
+
+console.log(order);
